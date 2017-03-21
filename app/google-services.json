@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "769678803610",
+    "firebase_url": "https://study-track.firebaseio.com",
+    "project_id": "study-track",
+    "storage_bucket": "study-track.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769678803610:android:080c8c4c4709d4c4",
+        "android_client_info": {
+          "package_name": "in.studytrack.studytrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769678803610-fi6s7vdqfrsag3kdoj8385qeshhi9ao6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.studytrack.studytrack",
+            "certificate_hash": "e8af9cc75a7fda4cd41c3570080789dac527d352"
+          }
+        },
+        {
+          "client_id": "769678803610-92odvg0fq6b7q4e6apm2qkjga66n8nng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.studytrack.studytrack",
+            "certificate_hash": "dd3812c6481d8f3e1bd9a21679fb9d1387187c56"
+          }
+        },
+        {
+          "client_id": "769678803610-aq7fdlgv48rjgkv20l98qvetjmr1kojl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDslLg7RLaiFQQpNBsf-YG8iYvvrrsB_tU"
+        },
+        {
+          "current_key": "AIzaSyCs6jKkCmtRySQxbeVwH1EzasanoN3OABM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769678803610-aq7fdlgv48rjgkv20l98qvetjmr1kojl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
